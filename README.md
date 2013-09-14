@@ -1,4 +1,5 @@
-# sequin
+# sequin [![Build
+status](https://secure.travis-ci.org/jcoglan/sequin.png)](http://travis-ci.org/jcoglan/sequin)
 
 Generates uniformly distributed ints in any base from a bit sequence, according
 to the algorithm [described by Christian
