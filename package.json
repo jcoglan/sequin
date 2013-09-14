@@ -1,0 +1,21 @@
+{ "name"            : "sequin"
+, "description"     : "Generate uniformly distributed ints in any base from a bit sequence"
+, "homepage"        : "http://github.com/jcoglan/sequin"
+, "author"          : "James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)"
+, "keywords"        : ["math"]
+, "license"         : "MIT"
+
+, "version"         : "0.1.0"
+, "engines"         : {"node": ">=0.4.0"}
+, "main"            : "./lib/sequin"
+, "devDependencies" : {"jstest": ""}
+
+, "scripts"         : {"test": "jstest spec/sequin_spec.js"}
+
+, "repository"      : { "type"  : "git"
+                      , "url"   : "git://github.com/jcoglan/sequin.git"
+                      }
+
+, "bugs"            : "http://github.com/jcoglan/sequin/issues"
+}
+
